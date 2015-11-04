@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://brianthuber.com/sitemap.xml
+Sitemap: http://brianthuber.com/sitemap.xml

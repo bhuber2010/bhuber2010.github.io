@@ -5,9 +5,9 @@
 
 	
 	<url>
-	<loc>https://brianthuber.com/404.html</loc>
+	<loc>http://brianthuber.com/404.html</loc>
 	
-		<lastmod>2015-11-03T20:14:49-07:00</lastmod>
+		<lastmod>2015-11-03T20:20:10-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>https://brianthuber.com/blog/archive/</loc>
+	<loc>http://brianthuber.com/blog/archive/</loc>
 	
-		<lastmod>2015-11-03T20:14:49-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>https://brianthuber.com/atom.xml</loc>
-	
-		<lastmod>2015-11-03T20:14:49-07:00</lastmod>
+		<lastmod>2015-11-03T20:20:10-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,114 +37,9 @@
 
 	
 	<url>
-	<loc>https://brianthuber.com/contact/</loc>
+	<loc>http://brianthuber.com/atom.xml</loc>
 	
-		<lastmod>2015-11-03T20:14:49-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://brianthuber.com/feed.xml</loc>
-	
-		<lastmod>2015-11-03T20:14:49-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://brianthuber.com/humans.txt</loc>
-	
-		<lastmod>2015-11-03T20:14:49-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://brianthuber.com/blog/</loc>
-	
-		<lastmod>2015-11-03T20:14:49-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://brianthuber.com/</loc>
-	
-		<lastmod>2015-11-03T20:14:49-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://brianthuber.com/info/</loc>
-	
-		<lastmod>2015-11-03T20:14:49-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://brianthuber.com/redirect-page/</loc>
-	
-		<lastmod>2015-11-03T20:14:49-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://brianthuber.com/robots.txt</loc>
-	
-		<lastmod>2015-11-03T20:14:49-07:00</lastmod>
+		<lastmod>2015-11-03T20:20:10-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -175,12 +53,10 @@
 	
 
 	
-
-	
 	<url>
-	<loc>https://brianthuber.com/search/</loc>
+	<loc>http://brianthuber.com/contact/</loc>
 	
-		<lastmod>2015-11-03T20:14:49-07:00</lastmod>
+		<lastmod>2015-11-03T20:20:10-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -193,9 +69,133 @@
 
 	
 	<url>
-	<loc>https://brianthuber.com/sitemap.xml</loc>
+	<loc>http://brianthuber.com/feed.xml</loc>
 	
-		<lastmod>2015-11-03T20:14:49-07:00</lastmod>
+		<lastmod>2015-11-03T20:20:10-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://brianthuber.com/humans.txt</loc>
+	
+		<lastmod>2015-11-03T20:20:10-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://brianthuber.com/blog/</loc>
+	
+		<lastmod>2015-11-03T20:20:10-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://brianthuber.com/</loc>
+	
+		<lastmod>2015-11-03T20:20:10-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://brianthuber.com/info/</loc>
+	
+		<lastmod>2015-11-03T20:20:10-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://brianthuber.com/redirect-page/</loc>
+	
+		<lastmod>2015-11-03T20:20:10-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://brianthuber.com/robots.txt</loc>
+	
+		<lastmod>2015-11-03T20:20:10-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://brianthuber.com/search/</loc>
+	
+		<lastmod>2015-11-03T20:20:10-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://brianthuber.com/sitemap.xml</loc>
+	
+		<lastmod>2015-11-03T20:20:10-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -213,7 +213,7 @@
 
 	
 	<url>
-	<loc>https://brianthuber.com/dummy/dummy-delete-me/</loc>
+	<loc>http://brianthuber.com/dummy/dummy-delete-me/</loc>
 	
 		<lastmod>2015-10-15T00:00:00-06:00</lastmod>
 	
@@ -228,7 +228,7 @@
 
 	
 	<url>
-	<loc>https://brianthuber.com/dummy/dummy-delete-me-copy-4/</loc>
+	<loc>http://brianthuber.com/dummy/dummy-delete-me-copy-4/</loc>
 	
 		<lastmod>2015-10-13T00:00:00-06:00</lastmod>
 	
@@ -243,7 +243,7 @@
 
 	
 	<url>
-	<loc>https://brianthuber.com/dummy/dummy-delete-me-copy-5/</loc>
+	<loc>http://brianthuber.com/dummy/dummy-delete-me-copy-5/</loc>
 	
 		<lastmod>2015-10-12T00:00:00-06:00</lastmod>
 	
@@ -258,7 +258,7 @@
 
 	
 	<url>
-	<loc>https://brianthuber.com/dummy/dummy-delete-me-copy-3/</loc>
+	<loc>http://brianthuber.com/dummy/dummy-delete-me-copy-3/</loc>
 	
 		<lastmod>2015-10-11T00:00:00-06:00</lastmod>
 	
@@ -273,7 +273,7 @@
 
 	
 	<url>
-	<loc>https://brianthuber.com/dummy/dummy-delete-me-copy-2/</loc>
+	<loc>http://brianthuber.com/dummy/dummy-delete-me-copy-2/</loc>
 	
 		<lastmod>2015-10-10T00:00:00-06:00</lastmod>
 	
