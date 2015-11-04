@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/</id>
+	<title>Feeling Responsive</title>
+	<updated>2015-11-03T19:44:47-07:00</updated>
+
+	<subtitle>The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Phlow</name>
+			
+			
+			
+				<uri>http://phlow.de/</uri>
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.0.0">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://localhost:4000/dummy/dummy-delete-me/</id>
+			<title>You can delete this file</title>
+			<link href="http://localhost:4000/dummy/dummy-delete-me/" rel="alternate" type="text/html" title="You can delete this file" />
+			<updated>2015-10-15T00:00:00-06:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
+			<content type="html" xml:base="http://localhost:4000/dummy/dummy-delete-me/"></content>
+
+			
+				<category term="dummy" />
+			
+			
+				<category term="dummy" />
+			
+
+			<published>2015-10-15T00:00:00-06:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/dummy/dummy-delete-me-copy-4/</id>
+			<title>You can delete this file</title>
+			<link href="http://localhost:4000/dummy/dummy-delete-me-copy-4/" rel="alternate" type="text/html" title="You can delete this file" />
+			<updated>2015-10-13T00:00:00-06:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
+			<content type="html" xml:base="http://localhost:4000/dummy/dummy-delete-me-copy-4/"></content>
+
+			
+				<category term="dummy" />
+			
+			
+				<category term="dummy" />
+			
+
+			<published>2015-10-13T00:00:00-06:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/dummy/dummy-delete-me-copy-5/</id>
+			<title>You can delete this file</title>
+			<link href="http://localhost:4000/dummy/dummy-delete-me-copy-5/" rel="alternate" type="text/html" title="You can delete this file" />
+			<updated>2015-10-12T00:00:00-06:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
+			<content type="html" xml:base="http://localhost:4000/dummy/dummy-delete-me-copy-5/"></content>
+
+			
+				<category term="dummy" />
+			
+			
+				<category term="dummy" />
+			
+
+			<published>2015-10-12T00:00:00-06:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/dummy/dummy-delete-me-copy-3/</id>
+			<title>You can delete this file</title>
+			<link href="http://localhost:4000/dummy/dummy-delete-me-copy-3/" rel="alternate" type="text/html" title="You can delete this file" />
+			<updated>2015-10-11T00:00:00-06:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
+			<content type="html" xml:base="http://localhost:4000/dummy/dummy-delete-me-copy-3/"></content>
+
+			
+				<category term="dummy" />
+			
+			
+				<category term="dummy" />
+			
+
+			<published>2015-10-11T00:00:00-06:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/dummy/dummy-delete-me-copy-2/</id>
+			<title>You can delete this file</title>
+			<link href="http://localhost:4000/dummy/dummy-delete-me-copy-2/" rel="alternate" type="text/html" title="You can delete this file" />
+			<updated>2015-10-10T00:00:00-06:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
+			<content type="html" xml:base="http://localhost:4000/dummy/dummy-delete-me-copy-2/"></content>
+
+			
+				<category term="dummy" />
+			
+			
+				<category term="dummy" />
+			
+
+			<published>2015-10-10T00:00:00-06:00</published>
+		</entry>
+	
+</feed>
