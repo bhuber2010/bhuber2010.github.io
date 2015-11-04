@@ -8,11 +8,11 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Feeling Responsive"
+title: "Brian's Profolio & More"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "A thrilling ride on the Brionman rollarcoaster of life!"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -20,7 +20,7 @@ description: "The description is used on homepage and in the footer to quickly d
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: bhuber
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -29,7 +29,7 @@ baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/bhuber2010/bhuber2010.github.io/edit/master
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -219,7 +219,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id:
+google_analytics_tracking_id: UA-69695110-1
 
 
 
