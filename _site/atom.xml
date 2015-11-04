@@ -3,8 +3,8 @@
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://brianthuber.com/</id>
-	<title>Feeling Responsive</title>
-	<updated>2015-11-03T20:20:10-07:00</updated>
+	<title>Brian&#39;s Profolio &amp; More</title>
+	<updated>2015-11-03T21:22:10-07:00</updated>
 
 	<subtitle>The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.</subtitle>
 
@@ -12,11 +12,9 @@
 		
 		<author>
 			
-				<name>Brian Huber</name>
+				<name>bhuber</name>
 			
 			
-			
-				<uri>http://brianthuber.com</uri>
 			
 		</author>
 	
