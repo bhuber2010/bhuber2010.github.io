@@ -238,7 +238,7 @@ jQuery( function($){
 				// modify item title to include description
 				currentItem = $(this.items)[this.index];
 				originalTitle = currentItem.title;
-				currentItem.title = '<h3>' + originalTitle + '</h3>' + "<p><a src='" + $(currentItem).parents('.work-item').find('img').attr('alt') + "'>" + originalTitle + "</a></p>";
+				currentItem.title = '<h3>' + originalTitle + '</h3>' + "<a src='" + $(currentItem).parents('.work-item').find('img').attr('alt') + "'><p>" + originalTitle + "</p></a>";
 
 				// adding animation
 				this.st.mainClass = 'mfp-fade';
