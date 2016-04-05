@@ -5,35 +5,43 @@
 /* --------------------- */
 
 .contact-info {
-	li {
-		padding-bottom: 30px;
-	}
 
-	h3, i {
-		color: $heading-text-color;
-	}
+	ul.list-flex-row {
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
 
-	h3, p {
-		padding-left: 52px;
-	}
+		li {
+			padding-bottom: 30px;
+		}
 
-	p {
-		font-size: 14px;
-	}
-
-	i {
-		font-size: 40px;
-	}
-
-	@include max-screen($screen-small) {
-		text-align: center;
-
-		i {
-			width: 100%;
+		h3, i {
+			color: $heading-text-color;
 		}
 
 		h3, p {
-			padding-left: 0;
+			padding-left: 52px;
+		}
+
+		p {
+			font-size: 14px;
+		}
+
+		i {
+			font-size: 40px;
+		}
+
+		@include max-screen($screen-small) {
+			text-align: center;
+
+			i {
+				width: 100%;
+			}
+
+			h3, p {
+				padding-left: 0;
+			}
 		}
 	}
 }
@@ -59,7 +67,7 @@
 		@include box-sizing(border-box);
 
 		padding: 12px;
-		margin-bottom: 7px; 
+		margin-bottom: 7px;
 		min-height: 3em;
 		border: none;
 		background-color: darken($section-bg-color-default, 3%);
@@ -67,7 +75,7 @@
 
 	.form-group {
 		margin-bottom: 0;
-	} 
+	}
 
 	textarea {
 		width: 100%;
@@ -99,4 +107,3 @@
 		}
 	}
 }
-

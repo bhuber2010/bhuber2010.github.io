@@ -89,7 +89,7 @@ jQuery( function($){
 			thumb_links: 0,				// Individual thumb links for each slide
 			slides:  	[				// Slideshow Images
 							{image : 'assets/img/sliders/S1050106.jpg', title : '<div class="hero-text"><h2 class="hero-heading">BRIAN HUBER</h2><p>...is a creative builder.</p></div>', thumb : '', url : ''},
-							{image : 'assets/img/sliders/slider2.jpg', title : '<div class="hero-text"><h2 class="hero-heading">BRIAN HUBER</h2><p>...is a web developer.</p></div>', thumb : '', url : ''},
+							{image : 'assets/img/sliders/gDev2.jpg', title : '<div class="hero-text"><h2 class="hero-heading">BRIAN HUBER</h2><p>...is a web developer.</p></div>', thumb : '', url : ''},
 							{image : 'assets/img/sliders/IMG_0473.jpg', title : '<div class="hero-text"><h2 class="hero-heading">BRIAN HUBER</h2><p>...is a photographer.</p></div>', thumb : '', url : ''},
 							{image : 'assets/img/sliders/IMG_1640.jpg', title : '<div class="hero-text"><h2 class="hero-heading">BRIAN HUBER</h2><p>...loves the outdoors!</p></div>', thumb : '', url : ''}
 						],
