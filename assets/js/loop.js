@@ -236,8 +236,6 @@ jQuery( function($){
 
 	$('.media-popup').magnificPopup({
 		type: 'inline',
-		closeBtnInside: false,
-		showCloseBtn: false,
 		callbacks: {
 			beforeOpen: function() {
 				currentItem = $(this.items)[this.index];
@@ -260,10 +258,9 @@ jQuery( function($){
 						highlights: [item.el[0].children[1].children[0].attributes['data-highlight-1'].nodeValue,
 												item.el[0].children[1].children[0].attributes['data-highlight-2'].nodeValue]
 					}
-					console.log(item.customData);
 					insertTemplate(item.src, 'devItem', item.customData)
 				} else {
-					console.log("Other item", item);
+
 				}
 			},
 			close: function() {

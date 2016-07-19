@@ -5111,7 +5111,6 @@ img.mfp-img {
 .highlights {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
 }
@@ -5119,6 +5118,22 @@ img.mfp-img {
 .highlights img {
   max-height: 400px;
   padding: 10px;
+}
+
+@media all and (max-width: 1900px) {
+  .highlights {
+    flex-wrap: wrap;
+  }
+}
+
+@media all and (max-width: 900px) {
+  .highlights {
+    flex-wrap: wrap;
+  }
+  .highlights img {
+    max-height: 200px;
+    padding: 5px;
+  }
 }
 
 @media screen and (max-width: 800px) and (orientation: landscape), screen and (max-height: 300px) {
@@ -5197,6 +5212,7 @@ img.mfp-img {
     padding-left: 6px;
     padding-right: 6px;
   }
+
 }
 .mfp-ie7 .mfp-img {
   padding: 0;
