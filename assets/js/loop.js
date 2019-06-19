@@ -60,15 +60,15 @@ jQuery( function($){
 		}
 	});
 
-	$('#main-nav').localScroll({
-		duration: 1000,
-		easing: 'easeInOutExpo'
-	});
+	// $('#main-nav').localScroll({
+	// 	duration: 1000,
+	// 	easing: 'easeInOutExpo'
+	// });
 
-	$('.hero-buttons').localScroll({
-		duration: 1000,
-		easing: 'easeInOutExpo'
-	});
+	// $('.hero-buttons').localScroll({
+	// 	duration: 1000,
+	// 	easing: 'easeInOutExpo'
+	// });
 
 
 	/*----------------------/
@@ -176,7 +176,7 @@ jQuery( function($){
 	*     Twitter's default renderings.
 	*/
 
-	twitterFetcher.fetch( '694372123029041152', 'tweet', 1, true, false, true, 'default');
+	// twitterFetcher.fetch( '694372123029041152', 'tweet', 1, true, false, true, 'default');
 
 
 	/*----------------------/
